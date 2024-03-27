@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Rilindi12.github.io/rilind-shabani/static/css/main.2fcadb54.css",
+    "main.js": "/Rilindi12.github.io/rilind-shabani/static/js/main.3ed4975f.js",
+    "static/js/453.253ccfac.chunk.js": "/Rilindi12.github.io/rilind-shabani/static/js/453.253ccfac.chunk.js",
+    "static/media/RilindShabani.jpg": "/Rilindi12.github.io/rilind-shabani/static/media/RilindShabani.4a8b8d7c386e4d9e26e7.jpg",
+    "static/media/RilindShabaniResume.pdf": "/Rilindi12.github.io/rilind-shabani/static/media/RilindShabaniResume.5dbd161a0a2be1cac107.pdf",
+    "index.html": "/Rilindi12.github.io/rilind-shabani/index.html",
+    "main.2fcadb54.css.map": "/Rilindi12.github.io/rilind-shabani/static/css/main.2fcadb54.css.map",
+    "main.3ed4975f.js.map": "/Rilindi12.github.io/rilind-shabani/static/js/main.3ed4975f.js.map",
+    "453.253ccfac.chunk.js.map": "/Rilindi12.github.io/rilind-shabani/static/js/453.253ccfac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fcadb54.css",
+    "static/js/main.3ed4975f.js"
+  ]
+}
