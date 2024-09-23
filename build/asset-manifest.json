@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rilind-shabani/static/css/main.0b973304.css",
+    "main.js": "/rilind-shabani/static/js/main.39bbf72d.js",
+    "static/js/453.253ccfac.chunk.js": "/rilind-shabani/static/js/453.253ccfac.chunk.js",
+    "static/media/RilindShabani.jpg": "/rilind-shabani/static/media/RilindShabani.4a8b8d7c386e4d9e26e7.jpg",
+    "static/media/RilindShabaniResume.pdf": "/rilind-shabani/static/media/RilindShabaniResume.5dbd161a0a2be1cac107.pdf",
+    "index.html": "/rilind-shabani/index.html",
+    "main.0b973304.css.map": "/rilind-shabani/static/css/main.0b973304.css.map",
+    "main.39bbf72d.js.map": "/rilind-shabani/static/js/main.39bbf72d.js.map",
+    "453.253ccfac.chunk.js.map": "/rilind-shabani/static/js/453.253ccfac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b973304.css",
+    "static/js/main.39bbf72d.js"
+  ]
+}
